@@ -1,4 +1,4 @@
-# Prelim OOP Exam
+# Midterm OOP Exam
 
 Name: Aila Gutlay  
 Course: BSIT 2nd Year  
